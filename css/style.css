@@ -10,7 +10,7 @@ header{
     top center / 100%
     local
     no-repeat;
-  height: 100vh;
+
   display: flex;
   flex-direction: column;
   justify-content: center;
